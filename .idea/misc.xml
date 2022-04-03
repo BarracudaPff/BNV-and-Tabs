@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main-tab.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3407760620117187" />
+        <entry key="app/src/main/res/layout/fragment_location.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.36633663366336633" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.42538757324218757" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+</project>
